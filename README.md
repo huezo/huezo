@@ -1,14 +1,56 @@
-# huezo
-site
+# Enlaces personales 🔗
+
+## Sitio web 🌐  
+```
+https://huezohuezo1990.wordpress.com/
+```
+
+## Sitio alterno 🌐  
+```
 http://huezo.github.io/huezo/
+```
 
+## Gravatar 👤  
+```
+https://gravatar.com/huezohuezo1990
+```
 
-#  Telegram
+## YouTube ▶️  
+```
+https://www.youtube.com/@huezohuezo1990
+```
 
-| Comunidad | Administrador | Link |
-|-----------|---------------|------|
-| GNU/LINUX Grupo | @huezohuezo1990 | https://telegram.me/joinchat/BFjvHDyRUAgpz3bn86kRJg |
-| GNU/LINUX Grupo | @huezohuezo1990 | https://telegram.me/GnuLinuxGrupo |
-| Ubuntu canal | @huezohuezo1990 | https://telegram.me/ubuntues |
-| GNU/LINUX canal  | @huezohuezo1990 | https://telegram.me/GnuLinuxEs |
+## GitLab 🦊  
+```
+https://gitlab.com/huezo
+```
+
+## GitHub 🐙  
+```
+https://github.com/huezo
+```
+
+## Goodreads 📚  
+```
+https://www.goodreads.com/huezo
+```
+
+---
+
+# Licencias
+
+## GNU GPL 3 o superior  
+```
+Este contenido puede acompañarse de código cubierto por la GNU General Public License versión 3 o cualquier versión posterior.
+```
+
+## GNU Free Documentation License 1.3  
+```
+Este documento está disponible bajo los términos de la GNU Free Documentation License versión 1.3.
+```
+
+## Free Art License 1.3  
+```
+El material artístico asociado puede distribuirse bajo la Free Art License 1.3.
+```
 
