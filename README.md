@@ -23,22 +23,8 @@
 
 ---
 
-# Licencias
-
-## GNU GPL 3 o superior  
-```
-Este contenido puede acompañarse de código cubierto por la GNU General Public License versión 3 o cualquier versión posterior.
-```
-
-## GNU Free Documentation License 1.3  
-```
-Este documento está disponible bajo los términos de la GNU Free Documentation License versión 1.3.
-```
-
-## Free Art License 1.3  
-```
-El material artístico asociado puede distribuirse bajo la Free Art License 1.3.
-```
-
-
+# Licencias 📄
+- **GPL3+**
+- **GFDL 1.3**
+- **FAL 1.3**
 
