@@ -28,3 +28,11 @@
 - **GFDL 1.3**
 - **FAL 1.3**
 
+
+
+
+![gplv3-or-later](gplv3-or-later.png)
+
+
+![gfdl-logo-small](gfdl-logo-small.png)
+
